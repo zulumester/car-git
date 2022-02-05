@@ -1,0 +1,1 @@
+múlt órán elkészített jacascript alkalmazás, amivel json fájlból tudunk autókar megjeleníteni.
